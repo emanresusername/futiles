@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/johanandren/futiles.svg)](https://travis-ci.org/johanandren/futiles)
 [![Coverage Status](https://coveralls.io/repos/johanandren/futiles/badge.svg?branch=master)](https://coveralls.io/r/johanandren/futiles?branch=master)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![Maven Central](https://img.shields.io/maven-central/v/com.markatta/futiles_2.12.svg)](https://maven-badges.herokuapp.com/maven-central/com.markatta/futiles_2.12)
 
 The missing utils for working with Scala Futures
 
